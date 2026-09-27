@@ -1,7 +1,7 @@
 streamlit
-pymupdf
-sentence-transformers
+PyMuPDF
 faiss-cpu
+sentence-transformers
 transformers
 torch
-numpypip install -r requirements.txt
+numpy
